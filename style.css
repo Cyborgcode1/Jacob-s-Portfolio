@@ -1,0 +1,25 @@
+body { 
+    text-align: center; 
+    } 
+    #app { 
+    background-color: aliceblue; 
+    } 
+    #myCarousel { 
+    background-color: rgb(67, 66, 133); 
+    } 
+    #myCarousel img 
+    { 
+    height: 300px; 
+    margin-top: 35px; 
+    text-align: center; 
+    } 
+    .carousel-inner p 
+    { 
+    margin-top: 15px; 
+    color : white; 
+    font-size: 20px; 
+    }
+    #chatbot
+    {
+    background-color : white;
+    }
